@@ -1,0 +1,59 @@
+Return-path: <>
+Envelope-to: purefiam@cp-48.webhostbox.net
+Delivery-date: Sat, 25 Mar 2017 16:52:19 +0000
+Received: from mailnull by cp-48.webhostbox.net with local (Exim 4.87)
+	id 1crovL-003EMF-RG
+	for purefiam@cp-48.webhostbox.net; Sat, 25 Mar 2017 16:52:19 +0000
+X-Failed-Recipients: somebodyelse@example.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@cp-48.webhostbox.net>
+To: purefiam@cp-48.webhostbox.net
+Content-Type: multipart/report; report-type=delivery-status; boundary=1490460739-eximdsn-766501375
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1crovL-003EMF-RG@cp-48.webhostbox.net>
+Date: Sat, 25 Mar 2017 16:52:19 +0000
+
+--1490460739-eximdsn-766501375
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  somebodyelse@example.com
+    retry time not reached for any host after a long failure period
+
+--1490460739-eximdsn-766501375
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; cp-48.webhostbox.net
+
+Action: failed
+Final-Recipient: rfc822;somebodyelse@example.com
+Status: 5.0.0
+
+--1490460739-eximdsn-766501375
+Content-type: message/rfc822
+
+Return-path: <purefiam@cp-48.webhostbox.net>
+Received: from purefiam by cp-48.webhostbox.net with local (Exim 4.87)
+	(envelope-from <purefiam@cp-48.webhostbox.net>)
+	id 1crovL-003EKL-8e; Sat, 25 Mar 2017 16:52:19 +0000
+To: raghven.r14@gmail.com
+Subject: My subject
+X-PHP-Script: purefit.in/index.php for 202.56.222.4
+X-PHP-Filename: /home/purefiam/public_html/index.php
+X-PHP-Originating-Script: 2458:index.php
+From: purefiam@purefit.in
+CC: somebodyelse@example.com
+Message-Id: <E1crovL-003EKL-8e@cp-48.webhostbox.net>
+Date: Sat, 25 Mar 2017 16:52:19 +0000
+X-Authenticated_sender: purefiam@purefit.in
+X-Authenticated_user: purefiam
+X-OutGoing-Spam-Status: No, score=0.0
+
+Hello world!
+
+--1490460739-eximdsn-766501375--

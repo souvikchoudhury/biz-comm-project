@@ -1,0 +1,102 @@
+Return-path: <souvikchoudhury2007@gmail.com>
+Envelope-to: do-not-reply@purefit.in
+Delivery-date: Sat, 25 Mar 2017 17:34:55 +0000
+Received: from mail-it0-f48.google.com ([209.85.214.48]:38182)
+	by cp-48.webhostbox.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <souvikchoudhury2007@gmail.com>)
+	id 1crpaZ-003giT-6o
+	for do-not-reply@purefit.in; Sat, 25 Mar 2017 17:34:55 +0000
+Received: by mail-it0-f48.google.com with SMTP id y18so17683015itc.1
+        for <do-not-reply@purefit.in>; Sat, 25 Mar 2017 10:34:35 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=kwrvEafbB/idezv2qbwYpYfHPxJiRrQNQjQe+bdAA00=;
+        b=LIcK4eIqe8Hzb6nhfqA04E7DVqNy4PgtzXzzdxzmWWXklZkDm8F+7hWxZBPQPnNpqh
+         SJ6DwbUVLoqTdUqZFZzXsVme50rzJzrXX1hL7T8aWInj1W8ZSiyQvaeHYoI/VPLFrt/l
+         yd2SfbQrCSWpjASIns2NMLYesrrZH/rPzprqC6I5uS0VDcWi2p7h9BfHsMiEvExmNQ4R
+         /DcTZ55ggpoB2y+LzUbaseucMcD30jyFKI6DMGWhrdrvQhwFNzozOSHwNTdEuwACJ1Ai
+         Nc9pPFWTfgBUTVTjxJxuxhk1VNvZiGOyMZWMG23IBN6pgrk2NL12FDhJ4Zm6RnDCtb5k
+         GlcA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=kwrvEafbB/idezv2qbwYpYfHPxJiRrQNQjQe+bdAA00=;
+        b=f7KbyoPMIFVyoHpWmoTcyGdat8qfjBwFMelA5KQWS1/ytR9H0kCKusE9ecVJi0n1tN
+         P9KFxuyayllWJUCGsJiswETzINHxBdrVd5iuoiFJEuGp2V7NKEvkMs5/S3uRKh0kQtFL
+         n3LMJPl6q2RaB7Ylaxi3780tk9TEtVXdh/bQBH6Hh6MgZYcd3/Skbuj5NHQaG/9ngAF4
+         LIzukZoOzdMX+neTZG0SsB7w4l7393oLzOJjh6aNLN2m1+d8lLOaMkWwFle/3MMLx3oG
+         dana2zxyYfwUxYN2XjVPqnhJyRTudEfAi9zRiifQYkGuMwdvE+pbPDRFZq5MbJvJFzFV
+         IACA==
+X-Gm-Message-State: AFeK/H30bFqaQFCd2sBFILsb/YvKBptTBTQYZdt0CfnyqKzsbGREiJpuQbm8iXgVipA98GILKv/XIFXhS2vaQQ==
+X-Received: by 10.36.124.85 with SMTP id a82mr2824280itd.90.1490463254369;
+ Sat, 25 Mar 2017 10:34:14 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.107.175.95 with HTTP; Sat, 25 Mar 2017 10:34:13 -0700 (PDT)
+In-Reply-To: <58d6a94f.08b8ca0a.f13cd.ce52SMTPIN_ADDED_MISSING@mx.google.com>
+References: <58d6a94f.08b8ca0a.f13cd.ce52SMTPIN_ADDED_MISSING@mx.google.com>
+From: Souvik Choudhury <souvikchoudhury2007@gmail.com>
+Date: Sat, 25 Mar 2017 23:04:13 +0530
+Message-ID: <CAGS-WoLxhLuTKZzjadrGy3ywm452FfKFvOg_7A=_BU0Efk0L_g@mail.gmail.com>
+Subject: Re: Happy Anniversary!
+To: Souvik <do-not-reply@purefit.in>
+Content-Type: multipart/alternative; boundary=001a114aa74ad3dd52054b918405
+X-Authenticated_sender: 
+X-Spam-Status: No, score=0.6
+X-Spam-Score: 6
+X-Spam-Bar: /
+X-Ham-Report: DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, FREEMAIL_ENVFROM_END_DIGIT=0.25, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001, RCVD_IN_MSPIKE_H3=-0.01, RCVD_IN_MSPIKE_WL=-0.01, RCVD_IN_SORBS_SPAM=0.5, URIBL_BLOCKED=0.001, CMAE Analysis: v=2.1 cv=SNruLrbH c=1 sm=0 tr=0 a=r_8gUa2ue6cA:10 a=6Iz7jQTuP9IA:10 a=gOOveGLB9R_Kpjmr-x8A:9 a=QEXdDO2ut3YA:10 a=P3YAkRhUC14A:10 a=jz18WMc1szfYYwQzeHkA:9 a=P9cndkhqV7p0tzCZ:21 a=Ye-Cj6JPAdoA:10
+ 
+ *  0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+ *      digit (souvikchoudhury2007[at]gmail.com)
+ *  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+ *      (souvikchoudhury2007[at]gmail.com)
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+ *      valid
+ * -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+ * -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+ *       domain
+ *  0.5 RCVD_IN_SORBS_SPAM RBL: SORBS: sender is a spam source
+ *      [209.85.214.48 listed in dnsbl.sorbs.net]
+ * -0.0 RCVD_IN_DNSWL_NONE RBL: Sender listed at http://www.dnswl.org/, no
+ *      trust
+ *      [209.85.214.48 listed in list.dnswl.org]
+ * -0.0 RCVD_IN_MSPIKE_H3 RBL: Good reputation (+3)
+ *      [209.85.214.48 listed in wl.mailspike.net]
+ *  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+ *       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+ *      for more information.
+ *      [URIs: purefit.in]
+ * -0.0 RCVD_IN_MSPIKE_WL Mailspike good senders
+X-Spam-Flag: NO
+
+--001a114aa74ad3dd52054b918405
+Content-Type: text/plain; charset=UTF-8
+
+hi
+
+On Sat, Mar 25, 2017 at 11:00 PM, Souvik <do-not-reply@purefit.in> wrote:
+
+> Hi,
+>
+> How are you? wishing you a happy anniversary
+>
+
+--001a114aa74ad3dd52054b918405
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">hi</div><div class=3D"gmail_extra"><br><div class=3D"gmail=
+_quote">On Sat, Mar 25, 2017 at 11:00 PM, Souvik <span dir=3D"ltr">&lt;<a h=
+ref=3D"mailto:do-not-reply@purefit.in" target=3D"_blank">do-not-reply@puref=
+it.in</a>&gt;</span> wrote:<br><blockquote class=3D"gmail_quote" style=3D"m=
+argin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><div class=3D=
+"HOEnZb"><div class=3D"h5">Hi,<br>
+<br>
+How are you? wishing you a happy anniversary<br>
+</div></div></blockquote></div><br></div>
+
+--001a114aa74ad3dd52054b918405--

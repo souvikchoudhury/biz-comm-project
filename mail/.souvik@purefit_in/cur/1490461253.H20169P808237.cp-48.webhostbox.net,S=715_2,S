@@ -1,0 +1,19 @@
+Return-path: <purefiam@cp-48.webhostbox.net>
+Envelope-to: souvik@purefit.in
+Delivery-date: Sat, 25 Mar 2017 17:00:53 +0000
+Received: from purefiam by cp-48.webhostbox.net with local (Exim 4.87)
+	(envelope-from <purefiam@cp-48.webhostbox.net>)
+	id 1crp3c-003OFx-UQ
+	for souvik@purefit.in; Sat, 25 Mar 2017 17:00:52 +0000
+To: souvik@purefit.in
+Subject: My subject
+X-PHP-Script: purefit.in/index.php for 182.19.41.137
+X-PHP-Filename: /home/purefiam/public_html/index.php
+X-PHP-Originating-Script: 2458:index.php
+From: purefiam@purefit.in
+Message-Id: <E1crp3c-003OFx-UQ@cp-48.webhostbox.net>
+Date: Sat, 25 Mar 2017 17:00:52 +0000
+X-Authenticated_sender: purefiam@purefit.in
+X-Authenticated_user: purefiam
+
+Hello world!

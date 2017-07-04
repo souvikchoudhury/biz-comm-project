@@ -1,0 +1,9 @@
+
+RewriteEngine on
+
+RewriteOptions inherit
+
+RewriteCond %{HTTP_HOST} ^secure\.purefit\.in$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.secure\.purefit\.in$
+RewriteRule ^/?$ "http\:\/\/www\.secure\.purefit\.in" [R=301,L]
+

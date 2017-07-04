@@ -1,0 +1,175 @@
+head	1.11;
+access;
+symbols;
+locks
+	purefiam:1.11; strict;
+comment	@# @;
+
+
+1.11
+date	2017.03.31.05.34.53;	author purefiam;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	2017.03.31.05.30.52;	author purefiam;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	2017.03.31.05.30.28;	author purefiam;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	2017.03.27.18.31.49;	author purefiam;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2017.03.27.18.31.49;	author purefiam;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2017.03.25.17.21.36;	author purefiam;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2017.03.25.15.44.35;	author purefiam;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2017.02.26.17.20.44;	author purefiam;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2017.02.26.17.20.40;	author purefiam;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2017.02.26.17.03.14;	author purefiam;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2017.02.26.17.03.14;	author purefiam;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.11
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@souvik:$1$Uw3IUOMg$6PJFlvDJbH3R86J/rp/TT/:17250::::::
+do-not-reply:$1$TOCJyyf1$Lmm9fSjNEP0ItT0erObIp.:17250::::::
+mail:$1$crVFb2W0$87H42lcUR4rhQsfE80NfW0:17252::::::
+flipkart.seed:$1$JxPjiHVu$WyLhv5MCZlYVjyJi4KG87/:17256::::::
+amazon.seed:$1$V/2phEa5$JvrSvh1hb94dH84LXjCaR.:17256::::::
+sudan.seed:$1$81p.wRpe$xgT8mW5F0YimcpfKgQuCK1:17256::::::
+@
+
+
+1.10
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d6 1
+@
+
+
+1.9
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d5 1
+@
+
+
+1.8
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d4 1
+@
+
+
+1.7
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d3 1
+@
+
+
+1.6
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+a1 1
+souvik:$1$GN5FV9YK$H5a20ItR6KgfiLr/cf86L.:17250::::::
+@
+
+
+1.5
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d2 1
+@
+
+
+1.4
+log
+@"Modified by /usr/local/cpanel/uapi "
+@
+text
+@d1 1
+@
+
+
+1.3
+log
+@"Modified by /usr/local/cpanel/uapi "
+@
+text
+@a0 1
+raghav_seed:$1$ZCmXFYlt$Z0YIT5IE6brGal8zUnFy91:17223::::::
+@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/uapi "
+@
+text
+@d1 1
+a1 1
+raghav_seed:$1$xWksA8A4$IdjFbBOOg9dIUHR0MekAu/:17223::::::
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/uapi "
+@
+text
+@d1 1
+@

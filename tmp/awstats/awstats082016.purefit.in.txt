@@ -1,0 +1,344 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201608 will be lost/reset.
+# Last config file used to build this data file was /home/purefiam/tmp/awstats/awstats.purefit.in.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2007                
+POS_TIME 2679                
+POS_VISITOR 8083                
+POS_DAY 9081                
+POS_DOMAIN 3316                
+POS_LOGIN 3616                
+POS_ROBOT 3771                
+POS_WORMS 3957                
+POS_EMAILSENDER 4088                
+POS_EMAILRECEIVER 4231                
+POS_SESSION 9547                
+POS_SIDER 9753                
+POS_FILETYPES 4366                
+POS_DOWNLOADS 4567                
+POS_OS 4615                
+POS_BROWSER 4790                
+POS_SCREENSIZE 5086                
+POS_UNKNOWNREFERER 5160                
+POS_UNKNOWNREFERERBROWSER 5297                
+POS_ORIGIN 5379                
+POS_SEREFERRALS 5517                
+POS_PAGEREFS 5661                
+POS_SEARCHWORDS 5864                
+POS_KEYWORDS 6016                
+POS_MISC 2343                
+POS_ERRORS 6075                
+POS_CLUSTER 3472                
+POS_SIDER_404 6192                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160901021614 1 0 11785064215922
+FirstTime 20160808093702
+LastTime 20160830213828
+LastUpdate 20160901045841 1 0 0 0 0
+TotalVisits 77                  
+TotalUnique 23                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 23                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 1 1 27535 0 0 0
+4 8 36 1237039 0 133 0
+5 2 20 55070 0 7 0
+6 5 46 757382 0 23 0
+7 1 1 27535 0 5 0
+8 4 46 1361262 0 10 0
+9 4 6 58346 0 5 0
+10 4 4 109735 2 21 0
+11 23 395 5523668 0 3 0
+12 1 1 27535 0 0 0
+13 6 26 819975 0 36 0
+14 2 2 55070 0 1 0
+15 2 12 613330 0 4 0
+16 2 29 927561 0 12 0
+17 13 141 1290894 0 36 272118
+18 87 262 2269685 6 309 0
+19 22 227 1960964 11 73 0
+20 50 467 1866493 1 226 0
+21 45 499 1011132 2 94 55070
+22 14 56 165604 25 27 0
+23 1 1 27535 0 29 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+in 271 2252 19505817
+us 20 20 549858
+pl 3 3 55070
+fr 1 1 27535
+gb 1 1 27535
+no 1 1 27535
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+google[_+\s]web[_+\s]preview 3 55070 20160814210515 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+css 348 3337557 0 0
+png 280 1758161 0 0
+html 242 4135994 0 0
+jpg 626 7093833 0 0
+js 668 2874878 0 0
+woff 55 850876 0 0
+gif 59 142051 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+winlong 1 1
+winphone 2 2
+winnt 48 12
+win2000 2 2
+macosx5 1 1
+linux 17 17
+win7 1 1
+win8.1 2204 259
+Unknown 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 12
+chrome51.0.2704.103 404 37
+msie8.0 1 1
+chrome52.0.2743.116 981 117
+msie11.0 2 2
+firefox3.5.5 1 1
+mozilla 2 2
+chrome47.0.2526.111 1 1
+chrome51.0.2704.106 865 115
+chrome37.0.2049.0 1 1
+firefox3.0.1.7 2 2
+chrome49.0.2623.75 17 17
+firefox3.6.13 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Mozilla/5.0_(compatible;_Attracta) 20160808193107
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 225 225
+From1 0 0
+From2 0 0
+From3 2 2
+From4 70 2051
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://manage.bigrock.in/servlet/ViewDomainServlet 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+206 16 272118
+500 33 0
+404 945 0
+301 1 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 36
+/ 7 -
+/img/works/item-5.jpg 20 http://purefit.in/
+/robots.txt 2 -
+/js/jquery-countTo.js 37 http://purefit.in/
+/css/blank.gif 5 http://purefit.in/css/jquery.fancybox.css
+/js/jquery.easing.min.js 36 http://purefit.in/
+/img/works/item-3.jpg 23 http://purefit.in/
+/js/jquery.appear.js 58 http://www.purefit.in/
+/js/modernizr-2.6.2.min.js 23 http://purefit.in/
+/js/wow.min.js 35 http://purefit.in/
+/img/footer-logo.png 31 http://purefit.in/
+/process.php 3 http://www.purefit.in/
+/img/works/item-7.jpg 21 http://purefit.in/
+/img/works/item-2.jpg 22 http://www.purefit.in/
+/css/jquery.fancybox.css 23 http://www.purefit.in/
+/css/animate.css 19 http://purefit.in/
+/css/main.css 22 http://purefit.in/
+/img/works/item-8.jpg 21 http://purefit.in/
+/img/team/member-2.png 37 http://www.purefit.in/
+/js/jquery.fancybox.pack.js 38 http://www.purefit.in/
+/img/works/item-1.jpg 21 http://www.purefit.in/
+/img/team/member-1.png 35 http://purefit.in/
+/img/preloader.gif 21 http://purefit.in/
+/js/bootstrap.min.js 29 http://www.purefit.in/
+/img/banner.jpg 21 http://purefit.in/
+/js/custom.js 34 http://purefit.in/
+/js/jquery-1.11.1.min.js 29 http://purefit.in/
+/img/team/member-3.png 35 http://www.purefit.in/
+/css/bootstrap.min.css 22 http://purefit.in/
+/img/works/item-4.jpg 19 http://purefit.in/
+/js/jquery.parallax-1.1.3.js 57 http://purefit.in/
+/js/jquery.singlePageNav.min.js 34 http://www.purefit.in/
+/js/jquery.mixitup.min.js 39 http://purefit.in/
+/css/font-awesome.min.css 22 http://purefit.in/
+/css/media-queries.css 25 http://www.purefit.in/
+/img/works/item-6.jpg 19 http://www.purefit.in/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 23
+202.56.222.4 95 791 6612077 20160820163845
+14.139.212.228 90 605 3960516 20160825181011
+59.145.203.68 26 262 1734819 20160817051540
+59.145.203.66 21 263 4749216 20160825105121
+182.19.41.137 20 176 1936293 20160821153549
+14.139.221.180 19 155 512896 20160809211539
+66.249.84.241 4 4 110140 20160820140819
+66.249.84.244 3 3 82605 20160821055819
+83.31.95.39 2 2 27535 20160813215449
+162.243.114.156 2 2 54228 20160808193107
+66.249.84.147 2 2 55070 20160828131709
+66.249.85.181 2 2 55070 20160830213828
+66.249.84.194 1 1 27535 20160813191158
+66.102.7.184 1 1 27535 20160821040553
+66.102.7.178 1 1 27535 20160816172305
+199.30.228.143 1 1 27535 20160813090706
+66.249.84.149 1 1 27535 20160826222619
+89.107.57.164 1 1 27535 20160819102404
+66.102.7.166 1 1 27535 20160814210507
+95.49.129.214 1 1 27535 20160812065633
+91.121.83.118 1 1 27535 20160812130058
+66.249.88.14 1 1 27535 20160819033349
+77.40.129.123 1 1 27535 20160812131858
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 18
+20160808 223 1962 11564656 20
+20160809 5 5 137675 4
+20160810 4 4 110140 4
+20160811 8 8 220280 6
+20160812 4 4 110140 4
+20160813 6 6 137675 5
+20160814 1 1 27535 1
+20160815 12 68 2363938 8
+20160816 8 77 1468763 6
+20160817 3 48 711381 2
+20160819 3 3 82605 3
+20160820 3 30 955096 2
+20160821 4 14 668400 3
+20160824 3 23 737370 1
+20160825 6 21 787556 4
+20160826 1 1 27535 1
+20160828 2 2 55070 2
+20160830 1 1 27535 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 5
+5mn-15mn 2
+0s-30s 58
+15mn-30mn 3
+2mn-5mn 1
+30s-2mn 1
+30mn-1h 7
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 2
+/ 242 4135994 67 63
+/fonts/fontawesome-webfont.woff 55 850876 10 14
+END_SIDER

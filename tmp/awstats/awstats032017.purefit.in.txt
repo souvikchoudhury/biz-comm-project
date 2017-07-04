@@ -1,0 +1,346 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201703 will be lost/reset.
+# Last config file used to build this data file was /home/purefiam/tmp/awstats/awstats.purefit.in.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2007                
+POS_TIME 2673                
+POS_VISITOR 7077                
+POS_DAY 8114                
+POS_DOMAIN 3337                
+POS_LOGIN 3613                
+POS_ROBOT 3768                
+POS_WORMS 3986                
+POS_EMAILSENDER 4117                
+POS_EMAILRECEIVER 4260                
+POS_SESSION 8489                
+POS_SIDER 8696                
+POS_FILETYPES 4395                
+POS_DOWNLOADS 4628                
+POS_OS 4676                
+POS_BROWSER 4819                
+POS_SCREENSIZE 5036                
+POS_UNKNOWNREFERER 5110                
+POS_UNKNOWNREFERERBROWSER 5197                
+POS_ORIGIN 5279                
+POS_SEREFERRALS 5418                
+POS_PAGEREFS 5573                
+POS_SEARCHWORDS 5721                
+POS_KEYWORDS 5873                
+POS_MISC 2336                
+POS_ERRORS 5932                
+POS_CLUSTER 3469                
+POS_SIDER_404 6064                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170401101019 147 39473 12118731802362
+FirstTime 0
+LastTime 20170331164519
+LastUpdate 20170402045325 1 0 0 0 0
+TotalVisits 73                  
+TotalUnique 24                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 24                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 34 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 2 3 483
+3 1 1 483 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 39 61 853516 0 2 0
+7 0 0 0 0 1 0
+8 35 47 3632028 5 11 19113
+9 33 33 9948 6 8 663
+10 59 59 734892 8 19 0
+11 56 78 3415143 21 25 18020
+12 0 0 0 2 17 807973
+13 3 4 424044 1 3 38
+14 22 31 445634 14 19 0
+15 137 167 2299414 15 21 17542
+16 94 147 14673555 7 23 1176620
+17 34 47 2928298 7 14 35084
+18 32 32 48892 6 9 1531
+19 105 143 4862656 21 30 417367
+20 270 343 13913080 14 22 36844
+21 64 172 7494849 6 10 470
+22 1 1 483 0 1 0
+23 34 40 1313536 1 2 235
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+in 975 1334 48888968
+us 21 49 8132133
+ca 18 18 26935
+ru 5 5 2415
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+google[_+\s]web[_+\s]preview 18 808011 20170331122717 0
+spider 1 483 20170301025622 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+png 73 1862291 0 0
+woff 34 474064 0 0
+php 305 4283764 0 0
+js 119 10415637 0 0
+gif 2 122 0 0
+css 160 8442327 0 0
+html 679 29940275 0 0
+ttf 1 21820 0 0
+jpg 33 1610151 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+win8.1 1010 694
+winxp 2 2
+linuxandroid 83 56
+linux 9 7
+winnt 299 257
+win7 3 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 8
+chrome46.0.2490.76 1 0
+firefox51.0 1 1
+opera18.0.1284.49 1 1
+chrome53.0.0.11780 298 256
+chrome49.0.2623.75 9 7
+chrome56.0.2924.87 1092 750
+msie8.0 2 2
+firefox25.0 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 287 289
+From1 0 0
+From2 5 5
+From3 0 0
+From4 727 1112
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+yandex 5 5
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+404 34 0
+500 39 0
+302 51 5792
+301 20 2838
+206 8 1469271
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 19
+/mail/home/purefiam/mail/stylesheet.css 1 http://purefit.in/mail/mail.php
+/mailpage.php 2 -
+/fonts/fontawesome-webfont.woff 2 http://purefit.in/mail/mail.php
+/test1.php 1 http://purefit.in/test_multi_to.php
+/webamil1/adminpanel 1 -
+/file.php 1 http://purefit.in/
+/phpmyadmin 1 -
+/fonts/fontawesome-webfont.ttf 2 http://purefit.in/mail/mail.php
+/test_multito.php 1 -
+/mail/install 1 -
+/font-awesome-min.css 3 http://purefit.in/mail/mail.php
+/homepage 1 -
+/email.php 3 http://yandex.ru/clck/jsredir
+/robots.txt 4 -
+/localhost:3306 1 -
+/Way2sms 1 -
+/index1.php 2 http://yandex.ru/clck/jsredir
+/home/purefiam/mail/stylesheet.css 4 http://purefit.in/mail/mail.php
+/ 2 http://whois.domaintools.com/purefit.in
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 24
+14.139.212.228 321 439 15356509 20170331164621
+202.56.222.4 288 413 17449964 20170331164519
+59.145.203.66 263 353 8768848 20170331065540
+14.139.221.180 78 101 6019201 20170330204233
+182.19.41.137 24 27 1293398 20170330234845
+47.11.199.149 15 15 25704 20170331082516
+64.233.173.143 6 11 1758449 20170331082522
+64.233.173.145 6 14 3012495 20170331082519
+47.11.135.181 2 2 748 20170327082130
+64.233.173.144 2 15 2513303 20170331082501
+64.233.172.157 1 1 413824 20170331162221
+64.233.172.155 1 2 9172 20170330134253
+66.249.85.146 1 1 483 20170310213228
+117.195.171.207 1 1 1048 20170315135522
+95.24.233.139 1 1 483 20170314151007
+188.232.159.41 1 1 483 20170305202200
+5.164.74.94 1 1 483 20170310220709
+66.249.80.16 1 1 483 20170312065917
+66.102.7.162 1 1 483 20170304114932
+66.249.85.144 1 1 483 20170307100913
+46.188.112.221 1 1 483 20170304143838
+178.140.25.174 1 1 483 20170312161139
+64.233.172.159 1 2 422958 20170330134253
+167.114.233.118 1 1 483 20170315030912
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 14
+20170304 2 2 966 2
+20170305 1 1 483 1
+20170307 1 1 483 1
+20170310 2 2 966 2
+20170312 2 2 966 2
+20170314 1 1 483 1
+20170315 2 2 1531 2
+20170325 102 102 11993 16
+20170326 154 154 845851 10
+20170327 3 3 1023 2
+20170328 242 323 10843160 5
+20170329 211 333 24208772 4
+20170330 228 358 14005844 17
+20170331 68 122 7127930 8
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+5mn-15mn 6
+30mn-1h 8
+1h+ 10
+0s-30s 34
+30s-2mn 5
+15mn-30mn 9
+2mn-5mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 30
+/webmail1/ 564 29846469 22 20
+/ 75 11962 20 22
+/dashboard.php 42 12239 4 4
+/way2sms/index.php 31 82946 0 3
+/webmail1/install/index.php 28 166006 1 1
+/test_multi_to.php 26 48372 3 4
+/mail_form.php 24 9745 3 0
+/index1.php 23 1251 3 3
+/mail/mail.php 23 765617 2 2
+/mailercode.php 21 623 0 2
+/webmail1/adminpanel/index.php 20 232382 0 0
+/homepage/ 19 22154 3 1
+/fetch_customer.php 16 6258 0 2
+/way2sms/ 15 38508 1 0
+/test1.php 14 1801 0 0
+/webmail1/skins/Default/fonts/afterlogic.woff 14 87584 2 2
+/client_login.php 13 3827 6 3
+/webmail1/skins/DeepForest/fonts/afterlogic.woff 11 131376 0 3
+/webmail1/index.php 11 2945930 0 0
+/index.php 5 1125 3 0
+/client_register.php 4 1359 0 0
+/homepage/css/fonts/fontawesome-webfont.woff 4 167520 0 1
+/sms/ 3 7747 0 0
+/webmail1/skins/BlueJeans/fonts/afterlogic.woff 3 43792 0 0
+/webmail1/adminpanel/ 3 13435 0 0
+/mysqli_conn.php 2 23 0 0
+/webmail1/skins/Default/fonts/afterlogic.ttf 1 21820 0 0
+/webmail1/skins/Funny/fonts/afterlogic.woff 1 21896 0 0
+/test_mail.php 2 4260 0 0
+/webmail1/skins/White/fonts/afterlogic.woff 1 21896 0 0
+END_SIDER

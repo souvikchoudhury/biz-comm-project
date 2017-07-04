@@ -1,0 +1,59 @@
+Return-path: <>
+Envelope-to: purefiam@cp-48.webhostbox.net
+Delivery-date: Sat, 25 Mar 2017 16:59:06 +0000
+Received: from mailnull by cp-48.webhostbox.net with local (Exim 4.87)
+	id 1crp1u-003NaL-H7
+	for purefiam@cp-48.webhostbox.net; Sat, 25 Mar 2017 16:59:06 +0000
+X-Failed-Recipients: souvik@purefiam.in
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@cp-48.webhostbox.net>
+To: purefiam@cp-48.webhostbox.net
+Content-Type: multipart/report; report-type=delivery-status; boundary=1490461146-eximdsn-1856584485
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1crp1u-003NaL-H7@cp-48.webhostbox.net>
+Date: Sat, 25 Mar 2017 16:59:06 +0000
+
+--1490461146-eximdsn-1856584485
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  souvik@purefiam.in
+    The mail server could not deliver mail to souvik@purefiam.in.  The account or domain may not exist, they may be blacklisted, or missing the proper dns entries.
+
+--1490461146-eximdsn-1856584485
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; cp-48.webhostbox.net
+
+Action: failed
+Final-Recipient: rfc822;souvik@purefiam.in
+Status: 5.0.0
+
+--1490461146-eximdsn-1856584485
+Content-type: message/rfc822
+
+Return-path: <purefiam@cp-48.webhostbox.net>
+Received: from purefiam by cp-48.webhostbox.net with local (Exim 4.87)
+	(envelope-from <purefiam@cp-48.webhostbox.net>)
+	id 1crp1u-003NaD-9B
+	for souvik@purefiam.in; Sat, 25 Mar 2017 16:59:06 +0000
+To: souvik@purefiam.in
+Subject: My subject
+X-PHP-Script: purefit.in/index.php for 14.139.212.228
+X-PHP-Filename: /home/purefiam/public_html/index.php
+X-PHP-Originating-Script: 2458:index.php
+From: purefiam@purefit.in
+Message-Id: <E1crp1u-003NaD-9B@cp-48.webhostbox.net>
+Date: Sat, 25 Mar 2017 16:59:06 +0000
+X-Authenticated_sender: purefiam@purefit.in
+X-Authenticated_user: purefiam
+X-OutGoing-Spam-Status: No, score=0.0
+
+Hello world!
+
+--1490461146-eximdsn-1856584485--

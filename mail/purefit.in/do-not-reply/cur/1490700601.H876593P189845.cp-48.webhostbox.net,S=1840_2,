@@ -1,0 +1,55 @@
+Return-path: <>
+Envelope-to: do-not-reply@purefit.in
+Delivery-date: Tue, 28 Mar 2017 11:30:01 +0000
+Received: from mailnull by cp-48.webhostbox.net with local (Exim 4.87)
+	id 1cspK5-000nNa-QG
+	for do-not-reply@purefit.in; Tue, 28 Mar 2017 11:30:01 +0000
+X-Failed-Recipients: shalinikiran0025@gmail.co
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@cp-48.webhostbox.net>
+To: do-not-reply@purefit.in
+Content-Type: multipart/report; report-type=delivery-status; boundary=1490700601-eximdsn-1251552137
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1cspK5-000nNa-QG@cp-48.webhostbox.net>
+Date: Tue, 28 Mar 2017 11:30:01 +0000
+
+--1490700601-eximdsn-1251552137
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  shalinikiran0025@gmail.co
+    retry timeout exceeded
+
+--1490700601-eximdsn-1251552137
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; cp-48.webhostbox.net
+
+Action: failed
+Final-Recipient: rfc822;shalinikiran0025@gmail.co
+Status: 5.0.0
+
+--1490700601-eximdsn-1251552137
+Content-type: message/rfc822
+
+Return-path: <do-not-reply@purefit.in>
+Received: from cp-48.webhostbox.net ([207.174.215.236]:38108 helo=localhost)
+	by cp-48.webhostbox.net with esmtpsa (TLSv1:ECDHE-RSA-AES256-SHA:256)
+	(Exim 4.87)
+	(envelope-from <do-not-reply@purefit.in>)
+	id 1cspJ4-000mkm-Hv
+	for shalinikiran0025@gmail.co; Tue, 28 Mar 2017 11:28:58 +0000
+From: SEED Software <do-not-reply@purefit.in>
+To: shalinikiran0025@gmail.co
+Subject: mila kya
+X-Authenticated_sender: souvik@purefit.in
+X-OutGoing-Spam-Status: No, score=0.5
+
+nail dekho re
+
+--1490700601-eximdsn-1251552137--

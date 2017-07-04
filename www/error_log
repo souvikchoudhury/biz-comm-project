@@ -1,0 +1,74 @@
+[25-Mar-2017 19:31:11 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/purefiam/public_html/mailercode.php on line 30
+[25-Mar-2017 19:31:24 Etc/GMT] PHP Notice:  Undefined index: to in /home/purefiam/public_html/mailercode.php on line 6
+[25-Mar-2017 19:31:24 Etc/GMT] PHP Notice:  Undefined index: subject in /home/purefiam/public_html/mailercode.php on line 7
+[25-Mar-2017 19:31:24 Etc/GMT] PHP Notice:  Undefined index: message in /home/purefiam/public_html/mailercode.php on line 8
+[26-Mar-2017 08:49:04 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'purediam_seed1'@'localhost' (using password: YES) in /home/purefiam/public_html/mysqli_conn.php on line 7
+[26-Mar-2017 09:27:18 Etc/GMT] PHP Notice:  Undefined index: id in /home/purefiam/public_html/dashboard.php on line 7
+[26-Mar-2017 09:27:18 Etc/GMT] PHP Notice:  Undefined index: id in /home/purefiam/public_html/dashboard.php on line 13
+[26-Mar-2017 18:37:49 Etc/GMT] PHP Notice:  Undefined index: to in /home/purefiam/public_html/mailercode.php on line 6
+[26-Mar-2017 18:37:49 Etc/GMT] PHP Notice:  Undefined index: subject in /home/purefiam/public_html/mailercode.php on line 7
+[26-Mar-2017 18:37:49 Etc/GMT] PHP Notice:  Undefined index: message in /home/purefiam/public_html/mailercode.php on line 8
+[26-Mar-2017 18:38:06 Etc/GMT] PHP Notice:  Undefined index: id in /home/purefiam/public_html/dashboard.php on line 7
+[26-Mar-2017 18:38:06 Etc/GMT] PHP Notice:  Undefined index: id in /home/purefiam/public_html/dashboard.php on line 13
+[26-Mar-2017 18:57:49 Etc/GMT] PHP Warning:  include(mailer_code.php): failed to open stream: No such file or directory in /home/purefiam/public_html/test1.php on line 7
+[26-Mar-2017 18:57:49 Etc/GMT] PHP Warning:  include(mailer_code.php): failed to open stream: No such file or directory in /home/purefiam/public_html/test1.php on line 7
+[26-Mar-2017 18:57:49 Etc/GMT] PHP Warning:  include(): Failed opening 'mailer_code.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/purefiam/public_html/test1.php on line 7
+[26-Mar-2017 18:57:49 Etc/GMT] PHP Warning:  include(mailer_code.php): failed to open stream: No such file or directory in /home/purefiam/public_html/test1.php on line 7
+[26-Mar-2017 18:57:49 Etc/GMT] PHP Warning:  include(mailer_code.php): failed to open stream: No such file or directory in /home/purefiam/public_html/test1.php on line 7
+[26-Mar-2017 18:57:49 Etc/GMT] PHP Warning:  include(): Failed opening 'mailer_code.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/purefiam/public_html/test1.php on line 7
+[26-Mar-2017 19:00:43 Etc/GMT] PHP Notice:  Undefined index: to in /home/purefiam/public_html/mailercode.php on line 6
+[26-Mar-2017 19:01:26 Etc/GMT] PHP Notice:  Undefined index: subject in /home/purefiam/public_html/test1.php on line 13
+[26-Mar-2017 19:01:26 Etc/GMT] PHP Notice:  Undefined index: message in /home/purefiam/public_html/test1.php on line 14
+[26-Mar-2017 19:01:26 Etc/GMT] PHP Notice:  Undefined index: subject in /home/purefiam/public_html/test1.php on line 13
+[26-Mar-2017 19:01:26 Etc/GMT] PHP Notice:  Undefined index: message in /home/purefiam/public_html/test1.php on line 14
+[26-Mar-2017 19:01:34 Etc/GMT] PHP Notice:  Undefined index: subject in /home/purefiam/public_html/test1.php on line 13
+[26-Mar-2017 19:01:34 Etc/GMT] PHP Notice:  Undefined index: message in /home/purefiam/public_html/test1.php on line 14
+[26-Mar-2017 19:01:34 Etc/GMT] PHP Notice:  Undefined index: subject in /home/purefiam/public_html/test1.php on line 13
+[26-Mar-2017 19:01:34 Etc/GMT] PHP Notice:  Undefined index: message in /home/purefiam/public_html/test1.php on line 14
+[26-Mar-2017 19:01:58 Etc/GMT] PHP Notice:  Undefined index: subject in /home/purefiam/public_html/test1.php on line 13
+[26-Mar-2017 19:01:58 Etc/GMT] PHP Notice:  Undefined index: message in /home/purefiam/public_html/test1.php on line 14
+[26-Mar-2017 19:01:58 Etc/GMT] PHP Notice:  Undefined index: subject in /home/purefiam/public_html/test1.php on line 13
+[26-Mar-2017 19:01:58 Etc/GMT] PHP Notice:  Undefined index: message in /home/purefiam/public_html/test1.php on line 14
+[26-Mar-2017 19:01:58 Etc/GMT] PHP Notice:  Undefined index: subject in /home/purefiam/public_html/test1.php on line 13
+[26-Mar-2017 19:01:58 Etc/GMT] PHP Notice:  Undefined index: message in /home/purefiam/public_html/test1.php on line 14
+[26-Mar-2017 19:03:42 Etc/GMT] PHP Notice:  Undefined index: subject in /home/purefiam/public_html/test1.php on line 13
+[26-Mar-2017 19:03:42 Etc/GMT] PHP Notice:  Undefined index: message in /home/purefiam/public_html/test1.php on line 14
+[26-Mar-2017 19:03:42 Etc/GMT] PHP Notice:  Undefined index: subject in /home/purefiam/public_html/test1.php on line 13
+[26-Mar-2017 19:03:42 Etc/GMT] PHP Notice:  Undefined index: message in /home/purefiam/public_html/test1.php on line 14
+[26-Mar-2017 19:08:47 Etc/GMT] PHP Notice:  Undefined index: subject in /home/purefiam/public_html/test1.php on line 13
+[26-Mar-2017 19:08:47 Etc/GMT] PHP Notice:  Undefined index: message in /home/purefiam/public_html/test1.php on line 14
+[26-Mar-2017 19:08:47 Etc/GMT] PHP Notice:  Undefined index: subject in /home/purefiam/public_html/test1.php on line 13
+[26-Mar-2017 19:08:47 Etc/GMT] PHP Notice:  Undefined index: message in /home/purefiam/public_html/test1.php on line 14
+[26-Mar-2017 19:17:41 Etc/GMT] PHP Notice:  Undefined index: subject in /home/purefiam/public_html/test1.php on line 13
+[26-Mar-2017 19:17:41 Etc/GMT] PHP Notice:  Undefined index: message in /home/purefiam/public_html/test1.php on line 14
+[26-Mar-2017 19:17:41 Etc/GMT] PHP Notice:  Undefined index: subject in /home/purefiam/public_html/test1.php on line 13
+[26-Mar-2017 19:17:41 Etc/GMT] PHP Notice:  Undefined index: message in /home/purefiam/public_html/test1.php on line 14
+[26-Mar-2017 19:18:27 Etc/GMT] PHP Notice:  Undefined index: subject in /home/purefiam/public_html/test1.php on line 13
+[26-Mar-2017 19:18:27 Etc/GMT] PHP Notice:  Undefined index: message in /home/purefiam/public_html/test1.php on line 14
+[26-Mar-2017 19:18:27 Etc/GMT] PHP Notice:  Undefined index: subject in /home/purefiam/public_html/test1.php on line 13
+[26-Mar-2017 19:18:27 Etc/GMT] PHP Notice:  Undefined index: message in /home/purefiam/public_html/test1.php on line 14
+[27-Mar-2017 08:20:37 Etc/GMT] PHP Notice:  Undefined index: id in /home/purefiam/public_html/dashboard.php on line 7
+[27-Mar-2017 08:20:38 Etc/GMT] PHP Notice:  Undefined index: id in /home/purefiam/public_html/dashboard.php on line 13
+[28-Mar-2017 10:15:12 Etc/GMT] PHP Notice:  Undefined index: id in /home/purefiam/public_html/dashboard.php on line 7
+[28-Mar-2017 10:15:12 Etc/GMT] PHP Notice:  Undefined index: id in /home/purefiam/public_html/dashboard.php on line 13
+[28-Mar-2017 14:31:23 Etc/GMT] PHP Parse error:  syntax error, unexpected 'Choudhury' (T_STRING) in /home/purefiam/public_html/index.php on line 6
+[28-Mar-2017 14:31:25 Etc/GMT] PHP Parse error:  syntax error, unexpected 'Choudhury' (T_STRING) in /home/purefiam/public_html/index.php on line 6
+[28-Mar-2017 14:31:30 Etc/GMT] PHP Parse error:  syntax error, unexpected 'Choudhury' (T_STRING) in /home/purefiam/public_html/index.php on line 6
+[28-Mar-2017 14:31:50 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/purefiam/public_html/index.php on line 9
+[28-Mar-2017 14:33:32 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/purefiam/public_html/index1.php on line 9
+[28-Mar-2017 14:33:35 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/purefiam/public_html/index1.php on line 9
+[28-Mar-2017 14:33:47 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/purefiam/public_html/index.php on line 9
+[28-Mar-2017 14:33:49 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/purefiam/public_html/index.php on line 9
+[28-Mar-2017 14:35:44 Etc/GMT] PHP Parse error:  syntax error, unexpected 'Jain' (T_STRING) in /home/purefiam/public_html/index.php on line 6
+[28-Mar-2017 14:35:47 Etc/GMT] PHP Parse error:  syntax error, unexpected 'Jain' (T_STRING) in /home/purefiam/public_html/index.php on line 6
+[28-Mar-2017 14:35:48 Etc/GMT] PHP Parse error:  syntax error, unexpected 'Jain' (T_STRING) in /home/purefiam/public_html/index.php on line 6
+[28-Mar-2017 14:35:49 Etc/GMT] PHP Parse error:  syntax error, unexpected 'Jain' (T_STRING) in /home/purefiam/public_html/index.php on line 6
+[28-Mar-2017 14:35:51 Etc/GMT] PHP Parse error:  syntax error, unexpected 'Jain' (T_STRING) in /home/purefiam/public_html/index.php on line 6
+[28-Mar-2017 14:35:52 Etc/GMT] PHP Parse error:  syntax error, unexpected 'Jain' (T_STRING) in /home/purefiam/public_html/index.php on line 6
+[28-Mar-2017 14:35:56 Etc/GMT] PHP Parse error:  syntax error, unexpected 'Jain' (T_STRING) in /home/purefiam/public_html/index.php on line 6
+[29-Mar-2017 19:19:55 Etc/GMT] PHP Notice:  Undefined index: id in /home/purefiam/public_html/dashboard.php on line 7
+[29-Mar-2017 19:19:55 Etc/GMT] PHP Notice:  Undefined index: id in /home/purefiam/public_html/dashboard.php on line 13
+[30-Mar-2017 18:12:34 Etc/GMT] PHP Notice:  Undefined index: id in /home/purefiam/public_html/dashboard.php on line 7
+[30-Mar-2017 18:12:34 Etc/GMT] PHP Notice:  Undefined index: id in /home/purefiam/public_html/dashboard.php on line 13
+[31-Mar-2017 05:36:25 Etc/GMT] PHP Notice:  Undefined index: id in /home/purefiam/public_html/dashboard.php on line 7
+[31-Mar-2017 05:36:25 Etc/GMT] PHP Notice:  Undefined index: id in /home/purefiam/public_html/dashboard.php on line 13

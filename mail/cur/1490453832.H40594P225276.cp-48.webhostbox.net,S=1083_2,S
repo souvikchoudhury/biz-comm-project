@@ -1,0 +1,30 @@
+Return-path: <>
+Envelope-to: purefiam@cp-48.webhostbox.net
+Delivery-date: Sat, 25 Mar 2017 14:57:12 +0000
+Received: from mailnull by cp-48.webhostbox.net with local (Exim 4.87)
+	id 1crn7w-000wbO-0V
+	for purefiam@cp-48.webhostbox.net; Sat, 25 Mar 2017 14:57:12 +0000
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@cp-48.webhostbox.net>
+To: purefiam@cp-48.webhostbox.net
+Subject: Mail failure - no recipient addresses
+Message-Id: <E1crn7w-000wbO-0V@cp-48.webhostbox.net>
+Date: Sat, 25 Mar 2017 14:57:12 +0000
+
+A message that you sent contained no recipient addresses, and therefore no
+delivery could be attempted.
+
+------ This is a copy of your message, including all the headers. ------
+
+To: 
+Subject: my mailtesting
+X-PHP-Script: purefit.in/index.php for 202.56.222.4
+X-PHP-Filename: /home/purefiam/public_html/index.php
+X-PHP-Originating-Script: 2458:index.php
+From: 1406281@kiit.ac.in
+Reply-To: replyto@example.com
+X-Mailer: PHP/5.4.45
+Message-Id: <E1crn7v-000wbL-WE@cp-48.webhostbox.net>
+Date: Sat, 25 Mar 2017 14:57:11 +0000
+
+Hello this is a testing mail

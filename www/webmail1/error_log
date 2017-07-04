@@ -1,0 +1,2 @@
+[31-Mar-2017 05:31:06 Etc/GMT] PHP Notice:  Undefined variable: aClientQuota in /home/purefiam/public_html/webmail1/libraries/afterlogic/common/managers/users/manager.php on line 474
+[31-Mar-2017 05:31:30 Etc/GMT] PHP Notice:  Undefined variable: aClientQuota in /home/purefiam/public_html/webmail1/libraries/afterlogic/common/managers/users/manager.php on line 474

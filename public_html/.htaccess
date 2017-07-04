@@ -1,0 +1,8 @@
+
+RewriteEngine on
+
+RewriteOptions inherit
+
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^/?$ "http\:\/\/www\.purefit\.in\/homepage" [R=301,L]
+
